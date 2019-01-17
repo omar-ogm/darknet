@@ -1,3 +1,5 @@
+This is a fork of the original Darket Project. To make use of YOLO detection network for custom problems.
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
