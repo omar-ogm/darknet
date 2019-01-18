@@ -5,7 +5,7 @@
 
 - **data**: Contains the configuration files to be use by darket.exe to train the network
 
-- **dataset**: The BCCD dataset in VOC format and with labels ready to be use by the YOLO network
+- **dataset**: The BCCD dataset in VOC format and with labels ready to be use by the YOLO network. NOTE: In order to use darknet to train the network the labels must be within the same directory as the images.
 
 ************************************************ORIGINAL REPO************************************************
 
