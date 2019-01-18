@@ -1,9 +1,11 @@
 **This is a fork of the original Darket Project. To make use of YOLO detection network for custom problems.
 
-Project Structure:
--cfg: Contains the graph of the YOLOv3 and YOLOV3-tiny 
--data: Contains the configuration files to be use by darket.exe to train the network
--dataset: The BCCD dataset in VOC format and with labels ready to be use by the YOLO network
+### Project Structure
+- **cfg**: Contains the graph of the YOLOv3 and YOLOV3-tiny 
+
+- **data**: Contains the configuration files to be use by darket.exe to train the network
+
+- **dataset**: The BCCD dataset in VOC format and with labels ready to be use by the YOLO network
 
 ************************************************ORIGINAL REPO************************************************
 
