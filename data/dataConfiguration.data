@@ -1,5 +1,5 @@
 classes= 3
-train  = data/train.txt
-valid  = data/valid.txt
+train  = dataset/BBCD/ImageSets/Main/train.txt
+valid  = dataset/BBCD/ImageSets/Main/valid.txt
 names = data/classNames.names
 backup = backup/
